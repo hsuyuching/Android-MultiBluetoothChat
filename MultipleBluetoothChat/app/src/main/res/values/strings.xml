@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MultipleBluetoothChat</string>
+    <string name="DisplayBlueToothDevice">藍芽裝置未連線</string>
+    <string name="button_connect">搜尋配對</string>
+    <string name="button_SendBMI">傳送訊息</string>
+    <string name="button_ReceiveBMI">接收BMI</string>
+    <string name="spinner_PairedDevice">已配對裝置</string>
+    <string name="send_message">請輸入傳送訊息</string>
+</resources>
